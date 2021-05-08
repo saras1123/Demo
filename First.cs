@@ -3,6 +3,6 @@ using system;
 
 int main()
 {
-	Console.WirteLine("Hello");
-	Consode.ReadLine();
+	Console.WirteLine("Hello World");
+	Console.ReadLine();
 }
