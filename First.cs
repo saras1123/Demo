@@ -2,7 +2,6 @@ using system;
 
 
 int main()
-{
-	Console.WirteLine("Hello World"
+{	Console.WirteLine("Hello World");
 	Console.ReadLine();
 }
